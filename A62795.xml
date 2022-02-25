@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Prince of Orange, upon the opening of the campagne, 1684</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62795</idno>
+            <idno type="STC">Wing T1597A</idno>
+            <idno type="STC">ESTC R10366</idno>
+            <idno type="EEBO-CITATION">11817885</idno>
+            <idno type="OCLC">ocm 11817885</idno>
+            <idno type="VID">49547</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49547)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 553:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Prince of Orange, upon the opening of the campagne, 1684</title>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Bentley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49547:1"/>
+            <!-- PDF PAGE 37 -->
+            <pb facs="tcp:49547:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <head>TO THE PRINCE OF ORANGE, Upon the opening of the Campagne, 1684</head>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Bentley, in Ruſſel-ſtreet</hi> in <hi>Covent-Garden,</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:49547:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb facs="tcp:49547:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 38 -->
+            <head>TO THE PRINCE OF ORANGE Upon the opening of the <hi>Campagne,</hi> 
+               <date>1684.</date>
+            </head>
+            <lg>
+               <l>ILluſtrious Sir, among the numerous Vows</l>
+               <l>Of Loyal Hearts, which your Juſt Cauſe eſpouſe,</l>
+               <l>Who think you are the preſent Ages prop,</l>
+               <l>And from you all their future Bleſſings hope!</l>
+               <l>Forgive that Zeal, which by no Penſion hir'd,</l>
+               <l>No Malice arm'd, no Factious Rage inſpir'd,</l>
+               <l>Inſtructs an <hi>Engliſh</hi> Muſe this harmleſs way,</l>
+               <l>Hers, and the Nations wiſhes to Convey.</l>
+               <l>Nor thoſe alone ſhe brings you, for no leſs</l>
+               <l>Then <hi>Europe</hi>'s Fate depends on your Succeſs.</l>
+               <l>All Nations from the calm <hi>Atlantique</hi> ſhore,</l>
+               <l>To thoſe cold Climes, where the Sun ſhines no more:</l>
+               <l>The <hi>Thames,</hi> the <hi>Moſe,</hi> the <hi>Tagus,</hi> and the <hi>Rhine,</hi>
+               </l>
+               <l>Whoſe diſtant Streams their common Int'reſts join,</l>
+               <l>In In ſuppliant manner from your Arms implore,</l>
+               <l>That laſting Peace you only can reſtore.</l>
+               <l>(For Leagues with <hi>France</hi> of Force no longer are,</l>
+               <l>Than till their Intereſt perſwades a War.)</l>
+               <l>Urge then your Fortune, on brave Prince, advance</l>
+               <l>Your Sword into the Heart of trembling <hi>France.</hi>
+               </l>
+               <pb facs="tcp:49547:3"/>
+               <!-- PDF PAGE 39 -->
+               <lg>
+                  <l>And to their matter'd Monarch make it clear,</l>
+                  <l>How ill his Falſhood ſerves to prop his Fear,</l>
+                  <l>If Valiant <hi>Orange</hi> in the Field appear.</l>
+               </lg>
+               <l>Then at full eaſe your Peaceful Uncle may</l>
+               <l>Enjoy the Fruits of that Succeſsful Day,</l>
+               <l>Which yields his Nephew, after all his Toils,</l>
+               <l>A glorious Triumph, and unenvy'd Spoils.</l>
+               <l>Then ſhall the <hi>Brittiſh,</hi> and the <hi>Belgick</hi> Fleet,</l>
+               <l>No Rival in their common Miſtreſs meet,</l>
+               <l>But with united Force by Sea, and Land,</l>
+               <l>The Trade, and Riches of the World Command.</l>
+               <l>The ancient <hi>Rhine</hi> from her <hi>French</hi> Fetters freed,</l>
+               <l>No more in vain ſhall ſee her Children bleed,</l>
+               <l>But with juſt Fury puſh her Vict'ries home</l>
+               <l>Againſt the other Foe of <hi>Chriſtendom.</hi>
+               </l>
+               <lg>
+                  <l>Then frighted <hi>Italy</hi> may to ſloth return,</l>
+                  <l>Their Gardens, and their Palaces adorn,</l>
+                  <l>Sav'd by that Heroe, whoſe Belief they ſcorn.</l>
+               </lg>
+               <l>
+                  <hi>Spain</hi> then may breathe again, nor fear, that ſhe</l>
+               <l>Shall, as in Ages paſt, impriſon'd be</l>
+               <l>Between the <hi>Pyrenaeans,</hi> and the Sea.</l>
+               <l>But having heal'd her Wounds, again grow bold,</l>
+               <l>And fetch from th' <hi>Indies</hi> more deſtructive Gold.</l>
+            </lg>
+            <lg>
+               <l>Theſe Benefits, and greater, we believe,</l>
+               <l>
+                  <hi>Europe</hi> will from your Conqu'ring hand receive.</l>
+               <lg>
+                  <l>Nor doubt, Great Sir, but the Preſage is true,</l>
+                  <l>For Faithleſs <hi>France</hi> intirely to ſubdue,</l>
+                  <l>Fate ever has reſerv'd for <hi>Caeſar,</hi> and for You.</l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
